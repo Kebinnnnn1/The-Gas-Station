@@ -6,7 +6,9 @@ AND THIS IS MADE BY ONE PERSON.
   <summary>Want to finish the game faster?</summary>
 
   The backdoor key is in the first shelf near the window.
+  
   the frontdoor key is on the top of the boxes.
+  
   please follow the sequence BackdoorKey > FrontdoorKey
 </details>
 
