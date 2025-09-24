@@ -27,6 +27,7 @@ Objectives:
 6. Escape the Gas Station – Survive the night and make it out alive.
 
 MEMBERS:
+
 VILLARO, KEVIN JHEAZER P.
 
 GABUTAN, HAIZELLE ANN
