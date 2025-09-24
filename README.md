@@ -26,16 +26,10 @@ Objectives:
 5. Check the Bathroom – There’s something inside that you can’t ignore.
 6. Escape the Gas Station – Survive the night and make it out alive.
 
-MEMBERS:
-
+# MEMBERS
 VILLARO, KEVIN JHEAZER P.
-
 GABUTAN, HAIZELLE ANN
-
 BANEZ, REGIE
-
 GOMEZ, ANGEL ROSE
-
 GAVAS, SHERA ZADE
-
 SUMAYANG, HYACINTH
