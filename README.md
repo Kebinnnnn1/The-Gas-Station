@@ -2,6 +2,16 @@
 PLEASE TAKE NOTE THAT THIS IS NOT AN OFFICIAL BUILD AND BUGS MAY OCCUR.
 AND THIS IS MADE BY ONE PERSON.
 
+<details>
+  <summary>Want to finish the game faster?</summary>
+
+  The backdoor key is in the first shelf near the window.
+  the frontdoor key is on the top of the boxes.
+  please follow the sequence BackdoorKey > FrontdoorKey
+</details>
+
+
+
 Introduction:
  
 You are the night-shift worker at a small gas station. It’s quiet, too quiet. Something feels off about tonight—no customers, no traffic, just the faint hum of the lights and the emptiness of the night. Your job seems simple: take care of the gas station. But as you go about your tasks, you’ll discover that something far darker is waiting for you.
