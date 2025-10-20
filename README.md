@@ -36,7 +36,9 @@ Objectives:
 3. Return to the Gas Station – Head back inside. The air outside feels wrong.
 4. Look for the Front Door Key – The front door shouldn’t be locked… but it is. You need to find out why.
 5. Check the Bathroom – There’s something inside that you can’t ignore.
-6. Escape the Gas Station – Survive the night and make it out alive.
+6. Return to the Gas Station - After agatha's occurance you some how got woked up outside the store.
+7. Check the CCTVS - check the cctv's for unusual presence or entity
+8. Go and check something outside...
 
 # MEMBERS
 VILLARO, KEVIN JHEAZER P.
